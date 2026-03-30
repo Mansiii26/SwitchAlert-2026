@@ -1,4 +1,4 @@
-# SWITCHALERT - SMART CHARGINF ALERT SYSTEM
+# SWITCHALERT - SMART CHARGING ALERT SYSTEM
 
 ## PROJECT OVERVIEW
 SwitchAlert is an Android-based automation project that detects when a charger is connected but no power is supplied (switch OFF condition).
