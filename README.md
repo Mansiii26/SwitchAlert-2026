@@ -20,3 +20,11 @@ This project helps users avoid situations where the phone is plugged in but not 
 
 ## CONCLUSION
 SwitchAlert provides a simple and effective solution for a common real-life problem using automation logic.
+
+## 
+
+### MACRO SETUP
+![Macro](macro.png)
+
+### OUTPUT NOTIFICATION
+![Notification](notification.png)
